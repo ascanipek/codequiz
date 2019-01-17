@@ -5,3 +5,8 @@ This is a web application for beginner coder for improving codeing skills. But i
 Important for using:
 
 Turkish proverbs are at the heart of the this app. You can change the database and change the questions. 
+
+ABOUT
+Theme by
+https://startbootstrap.com
+https://github.com/BlackrockDigital/startbootstrap-grayscale
