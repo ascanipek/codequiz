@@ -6,7 +6,7 @@ Important for using:
 
 Turkish proverbs are at the heart of the this app. You can change the database and change the questions. 
 
-ABOUT
-Theme by
-https://startbootstrap.com
+<strong>ABOUT</strong>
+Theme by <br>
+https://startbootstrap.com <br>
 https://github.com/BlackrockDigital/startbootstrap-grayscale
